@@ -13,3 +13,6 @@ tất cả liên quan lập trình
 - https://nextjs.org/
 - https://react.dev/
 - https://webpack.js.org/
+
+# Link mua tên miền
+- https://www.afternic.com/
