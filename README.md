@@ -22,3 +22,6 @@ tất cả liên quan lập trình
 
 # link công cụ Tools 
 - https://convertio.co/vn/html-txt/
+
+### máy tính online
+- https://www.liquidweb.com/lp/vps-plans/?clickid=R9w12mW68xycR6k2Hhx0eUgmUkpU0QwsXSS4Ww0&iradid=297651&irpid=2208946&sharedid=&_ir=1&utm_medium=affiliates&utm_source=2208946&irgwc=1
