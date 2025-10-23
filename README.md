@@ -6,6 +6,7 @@ tất cả liên quan lập trình
 
 # link học tập
 - https://www.cloudflare.com/
+- https://html.com/
 
 # Link dự án
 - https://stylelint.io/
