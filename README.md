@@ -10,3 +10,6 @@ tất cả liên quan lập trình
 # Link dự án
 - https://stylelint.io/
 - https://vite.dev/
+- https://nextjs.org/
+- https://react.dev/
+- https://webpack.js.org/
