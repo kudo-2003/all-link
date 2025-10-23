@@ -16,3 +16,4 @@ tất cả liên quan lập trình
 
 # Link mua tên miền
 - https://www.afternic.com/
+- https://dashboard.ngrok.com/settings
